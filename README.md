@@ -20,4 +20,8 @@ It's a one page website.  Maybe external cascade style sheet (css).
     2. Best websites for introduction, intermediary, and advanced
 ### Linux in all its glory
     1. How it works
-    2. Why it's so much better than anything Windows or Mac could dream of
+    2. Why it's so much better than anything Windows or Mac could dream of.
+    
+    ![image](https://github.com/bbauska/One-Page-Website/blob/main/img/img-1.jpg?raw=true)
+    
+    
