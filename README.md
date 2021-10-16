@@ -22,6 +22,7 @@ It's a one page website.  Maybe external cascade style sheet (css).
     1. How it works
     2. Why it's so much better than anything Windows or Mac could dream of.
     
-    ![image](https://github.com/bbauska/One-Page-Website/blob/main/img/img-1.jpg?raw=true)
+ ![Tractor Driver Silus](https://github.com/bbauska/One-Page-Website/blob/main/img/img-1.jpg?raw=true "Silus Driving Tractor")
     
     
+<!--- ![alt text](Isolated.png "Title") -->
